@@ -1,0 +1,11 @@
+/NeonDrop
+    /uploads
+    /public
+        /index.html
+        /style.css
+        /script.js
+    /server
+        server.js
+        fileController.js
+        fileModel.js
+    package.json
