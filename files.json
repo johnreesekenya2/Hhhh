@@ -1,0 +1,15 @@
+cd NeonDrop
+   ```
+2. Initialize a new Node.js project:
+   ```bash
+   npm init -y
+   ```
+3. Install necessary packages:
+   ```bash
+   npm install express multer lowdb node-cron cors
+   ```
+
+### Step 2: Backend Code
+1. Create a directory named `server` and add the following files.
+
+#### `server/server.js`
